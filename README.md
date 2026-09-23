@@ -1,29 +1,28 @@
-# Zayr — Gestão automotiva
+# Zayr
 
-> Sistema de gestão criado por **Pedro Henrique** para lojas de veículos.  
-> 🌐 **Site:** [zayr.com.br](https://zayr.com.br)
+Sistema de gestão para lojas de veículos que eu desenvolvi. O código é privado, então aqui ficam as telas e um resumo do que ele faz.
 
-O código do Zayr é privado. Aqui você conhece o que o sistema faz.
+<p>
+  <img src="telas/1-inicio.jpg" width="32%" alt="Tela inicial">
+  <img src="telas/2-gestao-metas.jpg" width="32%" alt="Vendas x meta">
+  <img src="telas/3-crm.jpg" width="32%" alt="CRM">
+</p>
 
-## O que o Zayr resolve
+## O que tem no sistema
 
-Lojas de veículos costumam controlar vendas, leads e tarefas em planilhas, cadernos e no WhatsApp. O Zayr reúne tudo em um só lugar, com uma tela inicial que mostra o que precisa de atenção no dia.
+- Vendas e metas do mês, mostrando quanto falta para bater a meta
+- Leads do marketing: recebidos, em qualificação, convertidos e esquecidos
+- CRM com o desempenho de cada vendedor
+- Agenda da loja com test drives, contratos, vistorias e entregas
+- Pós-venda: aniversários, revisões vencendo e clientes na hora da troca
+- Estoque de veículos, com vitrine para compartilhar
+- Feito para funcionar bem no celular
 
-## Principais recursos
+Começou pensado para loja de carro, mas a base serve para outros negócios que precisam controlar estoque, agenda e clientes.
 
-- **Metas de vendas:** acompanhe quantos veículos foram vendidos no período e quanto falta para bater a meta.
-- **Marketing e leads:** veja os leads recebidos, em qualificação, convertidos e esquecidos.
-- **CRM por vendedor:** acompanhe o desempenho de cada pessoa da equipe.
-- **Agenda da loja:** test drives, assinaturas de contrato, vistorias e entregas, com aviso de tarefas atrasadas.
-- **Relacionamento com clientes:** avisos de aniversários, revisões vencendo e clientes na hora de trocar de carro.
-- **Estoque de veículos** e visão por loja e por período.
-- **Funciona no celular**, com navegação simples.
+## Contato
 
-## Feito para se adaptar
+Quer ver uma demonstração? Fala comigo.
 
-O Zayr nasceu para a gestão de veículos, mas a base serve para outros negócios que precisam controlar estoque, produtos, agenda e clientes.
-
-## Quer usar o Zayr na sua empresa?
-
-💬 WhatsApp: [(94) 99101-3558](https://wa.me/5594991013558)  
-🌐 Portfólio: [portfoliopdr.netlify.app](https://portfoliopdr.netlify.app/)
+WhatsApp: [(94) 99101-3558](https://wa.me/5594991013558)  
+Portfólio: [portfolio-pdr.netlify.app](https://portfolio-pdr.netlify.app)
